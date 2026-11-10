@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "name": "Jordan Lee",
+        "email": "jordan.lee@example.com",
+        "category": "technical",
+        "description": "The dashboard does not load after I sign in.",
+        "status": "Open",
+        "attachment": null
+    },
+    {
+        "id": 2,
+        "name": "Maya Patel",
+        "email": "maya.patel@example.com",
+        "category": "billing",
+        "description": "I was charged twice for the same service.",
+        "status": "In Progress",
+        "attachment": null
+    },
+    {
+        "id": 3,
+        "name": "Chris Morgan",
+        "email": "chris.morgan@example.com",
+        "category": "account",
+        "description": "I cannot reset my password using the reset link.",
+        "status": "Resolved",
+        "attachment": null
+    },
+    {
+        "id": 4,
+        "name": "zjh",
+        "email": "harrisz4@mymail.nku.edu",
+        "category": "technical",
+        "description": "Mouse stopped working",
+        "status": "Resolved",
+        "attachment": null
+    },
+    {
+        "id": 5,
+        "name": "Owen J",
+        "email": "Example@something.com",
+        "category": "technical",
+        "description": "car problems...",
+        "status": "Open",
+        "attachment": "49b556564afa1dd81c55031ad73ccb88.png"
+    }
+]
